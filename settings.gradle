@@ -1,0 +1,5 @@
+rootProject.name = 'spring-message-sender'
+
+include 'm1'
+include 'm2'
+include 'm3'
